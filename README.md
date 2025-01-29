@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Igor Pelczarski
 =======================================================================================================================================
 
-I am a frontend developer, with an ambition to continue learning. Mostly using JavaScript. React is my favorite library. Currently I'm learnig typeScript. I've learned already: -JavaScript, -Css, -Html, -Api(fetch, axios), -Pull Requests & review -Error Handling, -Redux-saga, -Styled-components, -React-router, -Create React App, -Git, -Scrum, -Teamwork
+I am a frontend developer, with an ambition to continue learning. Mostly using JavaScript. React is my favorite library. Currently I'm learnig typeScript. I've learned already:<br /><br /> -JavaScript,<br /> -Css, <br />-Html,<br /> -Api(fetch, axios),<br /> -Pull Requests & review,<br /> -Error Handling,<br /> -Redux-saga,<br /> -Styled-components,<br /> -React-router,<br /> -Create React App,<br /> -Git,<br /> -Scrum,<br /> -Teamwork
 
 * 🌍  I'm based in Rzeszow
 * ✉️  You can contact me at [igorpe144@gmail.com](mailto:igorpe144@gmail.com)
